@@ -1,1 +1,6 @@
-test file make!tomorrow is important day
+
+
+
+
+## kafka important!
+## remember kafka is pub-sub model
